@@ -7,7 +7,7 @@ in one global store; components dispatch actions instead of drilling props.
 ## 🔗 Links
 
 - **GitHub repo:** _<paste your public repo URL — e.g. https://github.com/yourusername/react-essentials-assignment>_
-- **Live demo:** _<paste Netlify / Vercel / Render URL — e.g. https://react-taskmanager.netlify.app>_
+- **Live demo:** _<paste Netlify / Vercel / Render URL — e.g. https://react-taskmanager-tau.vercel.app/>_
 
 > Submission note: the assignment asks for a public repo named
 > **`react-essentials-assignment`**. Push this project there (or as a subfolder)
